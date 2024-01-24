@@ -16,10 +16,11 @@ HTML (HyperText Markup Language) is the code of a website, it gives it the basic
 
 Even if you intend on using a web editor like Frontpage it is best to familiarize yourself with the coding by completing a tutorial or two below.:
 
-[Tutorial Site 1](https://www.w3schools.com/html/default.asp)
-[Tutorial Site 2](https://echoecho.com/html.htm)
-[Tutorial Site 3](https://webdesign.about.com/od/beginningtutorials/a/bl_htmltutorial.htm)
-[Tutorial Site 4](https://www.accessv.com/%7Eemail/webpages/)
+|[Tutorial Site 1](https://www.w3schools.com/html/default.asp)|
+|---|
+|[Tutorial Site 2](https://echoecho.com/html.htm)|
+|[Tutorial Site 3](https://webdesign.about.com/od/beginningtutorials/a/bl_htmltutorial.htm)|
+|[Tutorial Site 4](https://www.accessv.com/%7Eemail/webpages/)|
 
 
 Finding a Web Editor
@@ -27,18 +28,20 @@ There are many, many web editor program available free, open source and commerci
 
 Here are a few we recommend, some free and some trial based:
 
-[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)
-[Kompozer](http://www.kompozer.net/)
-[Coffee Cup](http://www.coffeecup.com/html-editor/)
-[WebPlus 6](http://www.freeserifsoftware.com/commence-download.asp?CommenceDownload=webplus&navproduct=webplus&Check=True)
+|[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)|
+|---|
+|[Kompozer](http://www.kompozer.net/)|
+|[Coffee Cup](http://www.coffeecup.com/html-editor/)|
+|[WebPlus 6](http://www.freeserifsoftware.com/commence-download.asp?CommenceDownload=webplus&navproduct=webplus&Check=True)|
 
 Forget HTML, I want PHP!
 Creating a PHP website is really quite easy, especially if you already know PHP coding but if not and you want to learn, please review the following tutorials.:
 
-[PHP / MySQL Tutorial 1](http://www.freewebmasterhelp.com/tutorials/phpmysql)
-[PHP / MySQL Tutorial 2](http://www.webmonkey.com/programming/php/tutorials/tutorial4.html)
-[PHP / MySQL Tutorial 3](http://www.tizag.com/mysqlTutorial/)
-[PHP / MySQL Tutorial 4](http://www.sitepoint.com/article/php-mysql-tutorial)
+|[PHP / MySQL Tutorial 1](http://www.freewebmasterhelp.com/tutorials/phpmysql)|
+|---|
+|[PHP / MySQL Tutorial 2](http://www.webmonkey.com/programming/php/tutorials/tutorial4.html)|
+|[PHP / MySQL Tutorial 3](http://www.tizag.com/mysqlTutorial/)|
+|[PHP / MySQL Tutorial 4](http://www.sitepoint.com/article/php-mysql-tutorial)|
 
 
 What about forums, galleries, blogs or CMS?
@@ -70,9 +73,9 @@ This location/page can vary between scripts so it is best to refer to the docume
 
 In many cases simply visiting the installation location will direct you to the installation page which allows you to continue setup however if not, again refer to the documentation/official site of the script. Below are some common locations:
 
-http://yourwebsite.com/install.php
-http://yourwebsite.com/install
-http://yourwebsite.com/installation
+- http://yourwebsite.com/install.php
+- http://yourwebsite.com/install
+- http://yourwebsite.com/installation
 
 If you cannot locate the installation page and you have verified its supposed location using the script help documentation please verify the upload was successful using the Online File Manager to find all the associated files and that they are intact and accounted for including directory names and file names. In many cases you may also find the installation location via this method such as a sub-directory, if this is the case simply adjust your URL accordingly and browse there.
 
